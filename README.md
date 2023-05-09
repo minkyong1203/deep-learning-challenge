@@ -45,8 +45,6 @@ A small number of neurons was added to the second hidden layer, as the model was
 
 ## Summary
 
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
-
 This deep learning model achieves high accuracy of with a loss: 6.182602373883128e-05, and accuracy: 1.0. This means it can successfully predict whether or not a company is successful/will use funding money effectively based on input data. 
 
 A logistic regression could also accomplish this classification problem, because it is a rather simple, binary classification problem we are dealing with. Neural network models are good for complex decision problems, which is not the case with this problem. 
